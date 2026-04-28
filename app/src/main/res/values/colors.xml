@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand colors -->
+    <color name="accent">#25D366</color>
+    <color name="accent_dark">#128C7E</color>
+    <color name="accent_light">#DCF8C6</color>
+
+    <!-- Backgrounds -->
+    <color name="background">#F0F2F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="surface">#F8F9FA</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Status colors -->
+    <color name="green_active">#25D366</color>
+    <color name="red_error">#EF4444</color>
+    <color name="orange_warning">#F59E0B</color>
+
+    <!-- UI elements -->
+    <color name="divider">#E5E7EB</color>
+    <color name="ripple">#1A25D366</color>
+
+    <!-- Primary / Material theme -->
+    <color name="colorPrimary">#25D366</color>
+    <color name="colorPrimaryDark">#128C7E</color>
+    <color name="colorPrimaryVariant">#128C7E</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#34B7F1</color>
+    <color name="colorSecondaryVariant">#0099CC</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#1A1A2E</color>
+    <color name="colorBackground">#F0F2F5</color>
+    <color name="colorOnBackground">#1A1A2E</color>
+    <color name="colorError">#EF4444</color>
+    <color name="colorOnError">#FFFFFF</color>
+</resources>

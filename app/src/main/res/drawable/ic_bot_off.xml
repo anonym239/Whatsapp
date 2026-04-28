@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Robot icon – inactive (grey) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="72dp"
+    android:height="72dp"
+    android:viewportWidth="72"
+    android:viewportHeight="72">
+
+    <!-- Head -->
+    <path
+        android:fillColor="#CCCCCC"
+        android:pathData="M18,24 Q18,18 24,18 L48,18 Q54,18 54,24 L54,46 Q54,52 48,52 L24,52 Q18,52 18,46 Z" />
+
+    <!-- Antenna -->
+    <path
+        android:strokeColor="#CCCCCC"
+        android:strokeWidth="2"
+        android:pathData="M36,18 L36,12" />
+    <circle
+        android:fillColor="#CCCCCC"
+        android:cx="36"
+        android:cy="10"
+        android:r="3" />
+
+    <!-- Eyes -->
+    <circle
+        android:fillColor="#999999"
+        android:cx="28"
+        android:cy="32"
+        android:r="4" />
+    <circle
+        android:fillColor="#999999"
+        android:cx="44"
+        android:cy="32"
+        android:r="4" />
+
+    <!-- Mouth (flat / sleeping) -->
+    <rect
+        android:fillColor="#999999"
+        android:x="28"
+        android:y="42"
+        android:width="16"
+        android:height="3"
+        android:rx="1.5" />
+
+    <!-- Body -->
+    <rect
+        android:fillColor="#CCCCCC"
+        android:x="22"
+        android:y="52"
+        android:width="28"
+        android:height="12"
+        android:rx="4" />
+
+    <!-- Arms -->
+    <rect
+        android:fillColor="#CCCCCC"
+        android:x="10"
+        android:y="54"
+        android:width="10"
+        android:height="6"
+        android:rx="3" />
+    <rect
+        android:fillColor="#CCCCCC"
+        android:x="52"
+        android:y="54"
+        android:width="10"
+        android:height="6"
+        android:rx="3" />
+</vector>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">AutoReply Bot – Alexander</string>
+    <string name="app_subtitle">Automatische Antworten für WhatsApp &amp; mehr</string>
+    <string name="notification_listener_label">AutoReply Bot Benachrichtigungsdienst</string>
+
+    <!-- Status -->
+    <string name="status_active">🤖 Bot ist AKTIV</string>
+    <string name="status_inactive">Bot ist INAKTIV</string>
+    <string name="toggle_hint">Tippe zum Ein-/Ausschalten</string>
+    <string name="bot_icon_desc">Bot Icon</string>
+
+    <!-- Bot messages -->
+    <string name="bot_started">✅ Bot gestartet – überwacht Nachrichten</string>
+    <string name="bot_stopped">⏹ Bot gestoppt</string>
+
+    <!-- Permissions -->
+    <string name="permission_status_label">Benachrichtigungs-Zugriff</string>
+    <string name="permission_granted">✅ Zugriff erteilt</string>
+    <string name="permission_missing">⚠️ Zugriff fehlt – Bot kann nicht arbeiten</string>
+    <string name="grant_permission">Zugriff erteilen</string>
+    <string name="permission_notifications_granted">Benachrichtigungsberechtigung erteilt</string>
+    <string name="dialog_permission_title">Benachrichtigungs-Zugriff benötigt</string>
+    <string name="dialog_permission_message">Der AutoReply Bot benötigt Zugriff auf Benachrichtigungen, um eingehende Nachrichten zu erkennen und automatisch zu antworten.\n\nBitte aktiviere „AutoReply Bot" in den Einstellungen.</string>
+    <string name="dialog_open_settings">Einstellungen öffnen</string>
+
+    <!-- Delay -->
+    <string name="delay_label">Verzögerung vor Antwort</string>
+    <string name="delay_value">%d Min</string>
+    <string name="delay_min">1 Min</string>
+    <string name="delay_max">60 Min</string>
+
+    <!-- Message -->
+    <string name="message_label">Automatische Antwort</string>
+    <string name="message_hint">Deine automatische Antwort…</string>
+    <string name="name_placeholder_hint">💡 [Name] wird durch den Absendernamen ersetzt</string>
+    <string name="reset">Zurücksetzen</string>
+
+    <!-- Last reply -->
+    <string name="no_replies_yet">Noch keine automatischen Antworten gesendet</string>
+    <string name="last_reply_info">Zuletzt: %1$s um %2$s</string>
+
+    <!-- Buttons -->
+    <string name="blacklist_btn">Blacklist</string>
+    <string name="log_btn">Verlauf</string>
+    <string name="stop_bot">Bot stoppen</string>
+
+    <!-- Foreground notification -->
+    <string name="fg_notification_title">AutoReply Bot läuft</string>
+    <string name="fg_notification_text">Überwacht eingehende Nachrichten…</string>
+
+    <!-- Bot confirmation notification -->
+    <string name="bot_replied_title">🤖 Bot hat geantwortet</string>
+    <string name="bot_replied_text">Bot hat %1$s um %2$s automatisch geantwortet</string>
+
+    <!-- Notification channels -->
+    <string name="channel_bot_name">Bot-Antworten</string>
+    <string name="channel_bot_desc">Benachrichtigungen wenn der Bot automatisch antwortet</string>
+    <string name="channel_fg_name">Bot-Dienst</string>
+    <string name="channel_fg_desc">Hintergrunddienst für den AutoReply Bot</string>
+
+    <!-- Log Activity -->
+    <string name="log_title">Antwort-Verlauf</string>
+    <string name="log_empty">📭 Noch keine automatischen Antworten\n\nAktiviere den Bot und warte auf Nachrichten</string>
+    <string name="clear_log">Verlauf löschen</string>
+    <string name="clear_log_title">Verlauf löschen?</string>
+    <string name="clear_log_message">Alle gespeicherten Einträge werden unwiderruflich gelöscht.</string>
+    <string name="clear">Löschen</string>
+
+    <!-- Blacklist Activity -->
+    <string name="blacklist_title">Blacklist – Ausnahmen</string>
+    <string name="search_contacts_hint">Kontakt suchen oder Namen eingeben…</string>
+    <string name="add">Hinzufügen</string>
+    <string name="blacklist_count">%d Kontakt(e) ausgeschlossen</string>
+    <string name="blacklist_count_zero">Keine Ausnahmen konfiguriert</string>
+    <string name="enter_name_hint">Bitte Namen eingeben</string>
+    <string name="added_to_blacklist">%s zur Blacklist hinzugefügt</string>
+</resources>
