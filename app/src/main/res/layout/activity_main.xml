@@ -91,7 +91,7 @@
                     android:scaleX="1.4"
                     android:scaleY="1.4"
                     app:thumbTint="@color/white"
-                    app:trackTint="@color/switch_track_selector" />
+                    app:trackTint="@drawable/switch_track_selector" />
 
                 <TextView
                     android:layout_width="wrap_content"

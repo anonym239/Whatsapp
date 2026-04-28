@@ -13,8 +13,9 @@ import android.service.notification.NotificationListenerService;
 import android.service.notification.StatusBarNotification;
 import android.util.Log;
 
+import android.app.RemoteInput;
+
 import androidx.core.app.NotificationCompat;
-import androidx.core.app.RemoteInput;
 
 import java.util.HashMap;
 import java.util.Map;
